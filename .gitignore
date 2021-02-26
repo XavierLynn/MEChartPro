@@ -1,0 +1,12 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/.vs/MEChartPro
+/Binaries/Win64
+/Build/WindowsNoEditor/FileOpenOrder
+/Intermediate
+/Pakage/WindowsNoEditor
+/Plugins/MECharts/Intermediate/Build/Win64
+/Plugins/MECharts/Binaries/Win64
+/Saved
